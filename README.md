@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/версия-6.5.1-2f81f7?style=flat-square" alt="Версия 6.5.1">
   <img src="https://img.shields.io/badge/реестр_российского_ПО-включён-2ea043?style=flat-square" alt="Реестр российского ПО">
-  <img src="https://img.shields.io/badge/патент-Роспатент-2ea043?style=flat-square" alt="Свидетельство Роспатента">
+  <img src="https://img.shields.io/badge/свидетельство-Роспатент-2ea043?style=flat-square" alt="Свидетельство Роспатента">
   <img src="https://img.shields.io/badge/Infostart_Awards_2024-победитель-f0883e?style=flat-square" alt="Победитель Infostart Awards 2024">
   <img src="https://img.shields.io/badge/1С-8.3.15…8.3.27_|_8.5.1-c9d1d9?style=flat-square" alt="Платформы 1С">
 </p>
