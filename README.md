@@ -1,32 +1,32 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://databasecompressiontool.ru/images/DCT_press_footer_dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://databasecompressiontool.ru/images/DCT_press_footer_light.gif">
-    <img src="https://databasecompressiontool.ru/images/DCT_press_footer_light.gif" alt="Database Compression Tool" width="200">
-  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://databasecompressiontool.ru/images/DCT_press_footer_dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://databasecompressiontool.ru/images/DCT_press_footer_light.gif">
+    <img src="https://databasecompressiontool.ru/images/DCT_press_footer_light.gif" alt="Database Compression Tool" width="200">
+  </picture>
 </p>
 
 <h1 align="center">Database Compression Tool</h1>
 
 <p align="center">
-  <b>Свёртка и сжатие баз 1С: продукт вместо проекта</b><br>
-  База на 500 ГБ обрабатывается за 4–8 часов, размер сокращается в 2–3 раза,<br>
-  свёртку запускает ваш администратор, данные остаются внутри вашего контура.
+  <b>Свёртка и сжатие баз 1С: продукт вместо проекта</b><br>
+  На базах от 200 ГБ размер сокращается в 2–3 раза, база до терабайта сворачивается за 5 часов,<br>
+  свёртку запускает ваш администратор, данные остаются внутри вашего контура.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/версия-6.7.2-2f81f7?style=flat-square" alt="Версия 6.7.2">
-  <img src="https://img.shields.io/badge/реестр_российского_ПО-включён-2ea043?style=flat-square" alt="Реестр российского ПО">
-  <img src="https://img.shields.io/badge/свидетельство-Роспатент-2ea043?style=flat-square" alt="Свидетельство Роспатента">
-  <img src="https://img.shields.io/badge/Infostart_Awards_2024-победитель-f0883e?style=flat-square" alt="Победитель Infostart Awards 2024">
-  <img src="https://img.shields.io/badge/1С-8.3.15…8.3.27_|_8.5.1-c9d1d9?style=flat-square" alt="Платформы 1С">
+  <img src="https://img.shields.io/badge/версия-6.7.2-2f81f7?style=flat-square" alt="Версия 6.7.2">
+  <img src="https://img.shields.io/badge/реестр_российского_ПО-включён-2ea043?style=flat-square" alt="Реестр российского ПО">
+  <img src="https://img.shields.io/badge/свидетельство-Роспатент-2ea043?style=flat-square" alt="Свидетельство Роспатента">
+  <img src="https://img.shields.io/badge/Infostart_Awards_2024-победитель-f0883e?style=flat-square" alt="Победитель Infostart Awards 2024">
+  <img src="https://img.shields.io/badge/1С-8.3.15…8.3.27_|_8.5.1-c9d1d9?style=flat-square" alt="Платформы 1С">
 </p>
 
 <p align="center">
-  <a href="https://databasecompressiontool.ru">Сайт продукта</a> ·
-  <a href="https://databasecompressiontool.ru/files/DCT_DEMO.zip">Скачать демо</a> ·
-  <a href="https://infostart.ru/marketplace/2163140/">Купить на Infostart</a> ·
-  <a href="https://databasecompressiontool.ru/roi">Калькулятор экономии</a>
+  <a href="https://databasecompressiontool.ru">Сайт продукта</a> ·
+  <a href="https://databasecompressiontool.ru/files/DCT_DEMO.zip">Скачать демо</a> ·
+  <a href="https://infostart.ru/marketplace/2163140/">Купить на Infostart</a> ·
+  <a href="https://databasecompressiontool.ru/roi">Калькулятор экономии</a>
 </p>
 
 ---
@@ -41,22 +41,24 @@ Database Compression Tool (DCT) это внешняя обработка для 
 
 | | |
 |---|---|
-| **45–75%** | статистическая эффективность сжатия |
-| **4–8 часов** | обработка базы на 500 ГБ |
-| **в 5–10 раз** | быстрее типовых методов свёртки |
-| **~15 минут** | среднее время настройки перед запуском |
-| **300+** | успешных внедрений: розница, производство, логистика, строительство, госсектор |
+| **51%** | медиана сжатия по 104 клиентским базам, в половине случаев 34–67% |
+| **56%** | среднее сжатие на базах от 200 ГБ |
+| **5 часов** | свёртка базы до терабайта, до 300 ГБ примерно за 2 часа |
+| **15 минут** | настройка перед запуском |
+| **300+** | успешных кейсов: розница, производство, логистика, строительство, госсектор |
 | **до 8 потоков** | многопоточная свёртка с балансировщиком |
 
 ## Подтверждённые результаты на базах клиентов
 
-| Конфигурация | Было | Стало | Сжатие | Время DCT | Время типовой свёртки |
-|---|---|---|---|---|---|
-| 1С:ERP 2.5 | 2,3 ТБ | 1,2 ТБ | 47% | 37 ч | 168+ ч |
-| 1С:Бухгалтерия 3.0 | 457 ГБ | 210 ГБ | 54% | 4 ч | 26 ч |
-| 1С:Комплексная автоматизация 2.5 | 416 ГБ | 163 ГБ | 61% | 6 ч | 31 ч |
-| 1С:УТ 10.3 | 1,1 ТБ | 402 ГБ | 64% | 21 ч | типовых средств нет |
-| 1С:УПП 1.3 | 1,3 ТБ | 341 ГБ | 73% | 16 ч | типовых средств нет |
+| Конфигурация | Было | Стало | Сжатие | Время свёртки |
+|---|---|---|---|---|
+| 1С:Бухгалтерия 3.0 | 394 ГБ | 96 ГБ | 76% | 1 ч 50 мин |
+| 1С:ERP 2 | 1,7 ТБ | 470 ГБ | 73% | 10 ч 35 мин |
+| 1С:УПП 1.3 | 1,3 ТБ | 341 ГБ | 73% | 16 часов |
+| 1С:КА 2 | 877 ГБ | 254 ГБ | 71% | 5 ч 27 мин |
+| 1С:УТ 10.3 | 1,1 ТБ | 402 ГБ | 64% | 21 час |
+
+Это сильные результаты, а не типичные: медиана сжатия по 104 клиентским базам 51%, в половине случаев результат укладывается в 34–67%. Полное распределение и методика замера: [статистика свёртки](https://databasecompressiontool.ru/statistika-svertki-1s).
 
 ## Совместимость
 
@@ -102,5 +104,6 @@ Database Compression Tool (DCT) это внешняя обработка для 
 ---
 
 <p align="center">
-  <sub>© Команда DCT · Победитель Infostart Awards 2024 · Реестр российского ПО · Свидетельство Роспатента</sub>
+  <sub>© Команда DCT · Победитель Infostart Awards 2024 · Реестр российского ПО · Свидетельство Роспатента</sub>
 </p>
+
