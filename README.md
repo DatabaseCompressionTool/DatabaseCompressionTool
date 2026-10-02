@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://databasecompressiontool.ru/images/DCT_press_footer_dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://databasecompressiontool.ru/images/DCT_press_footer_light.gif">
-    <img src="https://databasecompressiontool.ru/images/DCT_press_footer_light.gif" alt="Database Compression Tool" width="200">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dct-press-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="assets/dct-press-light.gif">
+    <img src="assets/dct-press-light.gif" alt="Database Compression Tool" width="200">
   </picture>
 </p>
 
