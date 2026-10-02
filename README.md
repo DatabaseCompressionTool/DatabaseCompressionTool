@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/версия-6.7.6-2f81f7?style=flat-square" alt="Версия 6.7.6">
+  <img src="https://img.shields.io/badge/версия-6.8.0-2f81f7?style=flat-square" alt="Версия 6.8.0">
   <img src="https://img.shields.io/badge/реестр_российского_ПО-включён-2ea043?style=flat-square" alt="Реестр российского ПО">
   <img src="https://img.shields.io/badge/свидетельство-Роспатент-2ea043?style=flat-square" alt="Свидетельство Роспатента">
   <img src="https://img.shields.io/badge/Infostart_Awards_2024-победитель-f0883e?style=flat-square" alt="Победитель Infostart Awards 2024">
@@ -35,7 +35,8 @@
 
 <p align="center">
   ▶ <a href="https://rutube.ru/video/20fb6644767bda088f521cee8d9bd92c/">Знакомство с DCT за минуту</a> ·
-  <a href="https://rutube.ru/video/11ddc86693a293b68e58c65946f790cd/">Подробный обзор, 19 мин</a>
+  <a href="https://rutube.ru/video/11ddc86693a293b68e58c65946f790cd/">Подробный обзор, 19 мин</a> ·
+  <a href="https://www.youtube.com/@DatabaseCompressionTool/videos">Канал на YouTube</a>
 </p>
 
 ---
@@ -108,6 +109,7 @@ Database Compression Tool (DCT) это внешняя обработка для 
 - [Калькулятор экономии (ROI)](https://databasecompressiontool.ru/roi)
 - [Совместимость, документация, FAQ](https://databasecompressiontool.ru/support)
 - [Статьи и руководства](https://databasecompressiontool.ru/articles/)
+- [Видео на YouTube](https://www.youtube.com/@DatabaseCompressionTool/videos)
 - [История версий](https://databasecompressiontool.ru/changelog)
 
 ---
