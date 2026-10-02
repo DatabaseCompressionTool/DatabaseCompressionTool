@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/версия-6.7.2-2f81f7?style=flat-square" alt="Версия 6.7.2">
+  <img src="https://img.shields.io/badge/версия-6.7.6-2f81f7?style=flat-square" alt="Версия 6.7.6">
   <img src="https://img.shields.io/badge/реестр_российского_ПО-включён-2ea043?style=flat-square" alt="Реестр российского ПО">
   <img src="https://img.shields.io/badge/свидетельство-Роспатент-2ea043?style=flat-square" alt="Свидетельство Роспатента">
   <img src="https://img.shields.io/badge/Infostart_Awards_2024-победитель-f0883e?style=flat-square" alt="Победитель Infostart Awards 2024">
@@ -27,6 +27,15 @@
   <a href="https://databasecompressiontool.ru/files/DCT_DEMO.zip">Скачать демо</a> ·
   <a href="https://infostart.ru/marketplace/2163140/">Купить на Infostart</a> ·
   <a href="https://databasecompressiontool.ru/roi">Калькулятор экономии</a>
+</p>
+
+<p align="center">
+  <img src="assets/dct-demo.webp" width="800" alt="DCT в работе: потоковое выполнение этапа свёртки и отчёт «Анализ сжимаемости данных», прогноз до и факт после">
+</p>
+
+<p align="center">
+  ▶ <a href="https://rutube.ru/video/20fb6644767bda088f521cee8d9bd92c/">Знакомство с DCT за минуту</a> ·
+  <a href="https://rutube.ru/video/11ddc86693a293b68e58c65946f790cd/">Подробный обзор, 19 мин</a>
 </p>
 
 ---
